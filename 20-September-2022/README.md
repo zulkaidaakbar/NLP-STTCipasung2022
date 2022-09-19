@@ -4,3 +4,4 @@ Tujuan perkuliahan hari ini:
 3. Pengenalan NLTK, Dasar Sentimen Analisis dalam Bahasa Indonesia dan Bahasa Inggris
 
 Notes: Link untuk download data set untuk vader sentimen analysis: https://www.kaggle.com/code/robikscube/sentiment-analysis-python-youtube-tutorial/data
+code source: https://github.com/jfanniw/Praktek-NLP-Sederhana and https://towardsdatascience.com/gentle-start-to-natural-language-processing-using-python-6e46c07addf3
