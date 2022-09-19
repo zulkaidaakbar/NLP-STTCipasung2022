@@ -3,7 +3,9 @@ Slide Kuliah: NLP-Kuliah-1.pdf
 Tujuan perkuliahan hari ini:
 1. Pengenalan NLP
 2. Instalasi dan pengenalan Jupiter Notebook
-3. Pengenalan NLTK, Speech analysis, Sentimen Analisis dalam Bahasa Indonesia dan Bahasa Inggris
+3. Pengenalan NLTK
+4. Speech analysis dalam Bahasa Indonesia dan Bahasa Inggris
+5. Vader Sentiment analysis
 
 Notes: Jupyter notebook tutorial: https://www.dataquest.io/blog/jupyter-notebook-tutorial/ 
 Link untuk download data set untuk vader sentimen analysis: https://www.kaggle.com/code/robikscube/sentiment-analysis-python-youtube-tutorial/data
