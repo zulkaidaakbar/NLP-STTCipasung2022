@@ -4,4 +4,4 @@ Setelah pertemuan lalu kita belajar menggunakan Jupiter Notebook, hari ini kita 
 Tujuan perkuliahan hari ini:
 1. Pengenalan google colabs
 2. Sentiment Analysis Menggunakan Machine Learning
-3. Sentiment Analysis Menggunakan metode Vader
+3. Sentiment Analysis Menggunakan metode Vader (lihat folder VaderSentimentAnalysis)
