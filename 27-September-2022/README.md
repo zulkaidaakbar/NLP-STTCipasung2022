@@ -9,4 +9,5 @@ Tujuan perkuliahan hari ini:
 PR terkait perkuliahan hari ini:
 
 PR-3: Dengan menggunakan Vader sentiment analysis (buat coding nya), hitunglah accuracy score untuk file "imdb_labelled.txt"
+
 PR-4: Dengan menggunakan Vader sentiment analysis (buat coding nya), hitunglah accuracy score untuk file "a1_RestaurantReviews_HistoricDump.tsv" (Catatan: Perlu sedikit trick dan modifikasi coding untuk membaca file *.tsv)
