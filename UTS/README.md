@@ -20,9 +20,16 @@ PR-6: Coba codingan yang Vaksin sentimen analis.
 
 PR-7: Coba codingan yang Topik modelling (clustering topic) untuk Amazon Review
 
-SOAL UTS:
+UTS. Soal UTAS ini terdiri dari 3 bagian:
+
+Bagian Pertama
 
 1. Baca: https://theconversation.com/analisis-pidato-kenegaraan-jokowi-ungkap-keterbatasan-pemerintah-dalam-hadapi-pandemi-145340 dan https://katadata.co.id/ariayudhistira/analisisdata/625539ee12819/analisis-pidato-kenegaraan-jokowi-beda-perhatian-dulu-dan-sekarang 
 2. Cari 3 tahun terakhir pidato kenegaraan Presiden Jokowi (disampaikan setiap 17 Agustus)
 3. Buat plot untuk 5 - 10 kata kunci yang paling sering muncul setiap tahunnya. Jangan lupa untuk bersihkan dulu datanya. Makin bersih data, makin bagus dan makin tinggi nilai anda. Silahkan search berbagai teknik untuk membersihkan data
-4. Buat tulisan singkat (minimal 3 paragraf) berdasarkan analisis dari kata kunci yang muncul. Adik2 bisa lihat dua link di point nomer 1 untuk contoh 
+4. Buat tulisan singkat (minimal 3 paragraf) berdasarkan analisis dari kata kunci yang muncul. Adik2 bisa lihat dua link di point nomer 1 untuk contoh
+
+Bagian Kedua
+1. Menggunakan codingan di folder 1-November-2022 (terkait topic modeling), buatlah topic modeling untuk file "Reviews_Filter.csv". File ini terletak di folder 18-Oktber-2022.
+2. Cobalah bereksperimen dengan jumlah topik (n_topic) hingga terlihat jelas perbedaan antara satu topik dengan topik lainnya. 
+3. Buatlah analisis dan tuliskan kedalam minimal 3 paragraf
