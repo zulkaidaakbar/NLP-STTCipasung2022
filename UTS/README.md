@@ -9,3 +9,7 @@ PR 3 dan 4 terkait dengan Folder 27-September-2022
 PR-3: Dengan menggunakan Vader sentiment analysis (buat coding nya), hitunglah accuracy score untuk file "imdb_labelled.txt"
 
 PR-4: Dengan menggunakan Vader sentiment analysis (buat coding nya), hitunglah accuracy score untuk file "a1_RestaurantReviews_HistoricDump.tsv" (Catatan: Perlu sedikit trick dan modifikasi coding untuk membaca file *.tsv)
+
+PR 5 terkait dengan folder 4-Oktober-2022
+
+PR-5: Coba codingan di Folder ini (4-Oktober-2022)
