@@ -19,3 +19,8 @@ PR 6 dan 7 terkait dengan folder 18-Oktober-2022
 PR-6: Coba codingan yang Vaksin sentimen analis.
 
 PR-7: Coba codingan yang Topik modelling (clustering topic) untuk Amazon Review
+
+SOAL UTS:
+
+1. Baca: https://theconversation.com/analisis-pidato-kenegaraan-jokowi-ungkap-keterbatasan-pemerintah-dalam-hadapi-pandemi-145340 dan https://katadata.co.id/ariayudhistira/analisisdata/625539ee12819/analisis-pidato-kenegaraan-jokowi-beda-perhatian-dulu-dan-sekarang 
+2. 
