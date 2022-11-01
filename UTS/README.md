@@ -13,3 +13,9 @@ PR-4: Dengan menggunakan Vader sentiment analysis (buat coding nya), hitunglah a
 PR 5 terkait dengan folder 4-Oktober-2022
 
 PR-5: Coba codingan di Folder ini (4-Oktober-2022)
+
+PR 6 dan 7 terkait dengan folder 18-Oktober-2022
+
+PR-6: Coba codingan yang Vaksin sentimen analis.
+
+PR-7: Coba codingan yang Topik modelling (clustering topic) untuk Amazon Review
