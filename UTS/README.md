@@ -33,3 +33,14 @@ Bagian Kedua
 1. Menggunakan codingan di folder 1-November-2022 (terkait topic modeling), buatlah topic modeling untuk file "Reviews_Filter.csv". File ini terletak di folder 18-Oktber-2022. Jangan lupa bersihkan dulu datanya (punctuation, stop words, jadikan huruf kecil semua dll). Bagian untuk membersihkan data ada di codingan folder 18-Oktober-2022
 2. Cobalah bereksperimen dengan jumlah topik (n_topic) hingga terlihat jelas perbedaan antara satu topik dengan topik lainnya. 
 3. Buatlah analisis dan tuliskan kedalam minimal 3 paragraf
+
+Bagian Ketiga
+
+1. Menggunakan file "Reviews_Filter.csv", buatlah codingan vader sentiment analisis untuk menghitung compound score (sentimen skor) tiap review. Anda bisa melihat contoh codingan nya di folder 27-September-2022/VaderSentimentAnalysis
+2. Buatlah plot distribusi compound score (sumbu-x adalah compund score dan sumbu y nya adalah jumlah atau N). 
+3. Apakah produk "coffee" disukai oleh konsumen? untuk menjawab pertanyaan ini, buatlah plot compound score untuk review yang mengandung kata "coffee". Contoh plot ada di codingan pada folder 18-Oktober-2022 untuk plot yang mengandung kata pfizer atau trump
+4. Apakah menurut konsumen harga produk secara umum mahal atau murah? untuk menjawab pertanyaan ini, dengan menggunakan teknik yang sama dengan poin nomor 3, buatlah plot compound score untuk review2 yang mengandung kata "price". 
+
+WAKTU PENGUMPULAN:
+
+Semua PR dan UTS dikumpulkan minggu depan, Senin, 7 November 2022 pukul 23.59 WIB
