@@ -30,6 +30,6 @@ Bagian Pertama
 4. Buat tulisan singkat (minimal 3 paragraf) berdasarkan analisis dari kata kunci yang muncul. Adik2 bisa lihat dua link di point nomer 1 untuk contoh
 
 Bagian Kedua
-1. Menggunakan codingan di folder 1-November-2022 (terkait topic modeling), buatlah topic modeling untuk file "Reviews_Filter.csv". File ini terletak di folder 18-Oktber-2022.
+1. Menggunakan codingan di folder 1-November-2022 (terkait topic modeling), buatlah topic modeling untuk file "Reviews_Filter.csv". File ini terletak di folder 18-Oktber-2022. Jangan lupa bersihkan dulu datanya (punctuation, stop words, jadikan huruf kecil semua dll). Bagian untuk membersihkan data ada di codingan folder 18-Oktober-2022
 2. Cobalah bereksperimen dengan jumlah topik (n_topic) hingga terlihat jelas perbedaan antara satu topik dengan topik lainnya. 
 3. Buatlah analisis dan tuliskan kedalam minimal 3 paragraf
