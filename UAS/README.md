@@ -1,5 +1,5 @@
 Soal UAS 
-Pengumpulan: Hari Rabu malam minggu depan (11 December) pukul 23.59
+Pengumpulan: Hari Rabu malam minggu depan (11 Januari) pukul 23.59
 Kerjakan di google colabs
 Buat folder "UAS-<Nama Anda>" di Github adik-adik. Boleh copy codingan adik2 di github folder ini atau hanya link ke google colabs (share) adik2 untuk tiap codingan juga boleh.
 
